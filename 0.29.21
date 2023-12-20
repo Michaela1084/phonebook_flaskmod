@@ -1,0 +1,3 @@
+Requirement already satisfied: blosc2==2.0.0 in c:\users\micha\anaconda3\lib\site-packages (2.0.0)
+Requirement already satisfied: cython in c:\users\micha\anaconda3\lib\site-packages (3.0.7)
+Requirement already satisfied: msgpack in c:\users\micha\anaconda3\lib\site-packages (from blosc2==2.0.0) (1.0.3)
